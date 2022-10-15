@@ -5,7 +5,7 @@
 - 🐦 Twitter: https://twitter.com/itsjustchioma/
 - 📧 Email: chiomacodes@gmail.com 
 - 🪷 LinkedIn: http://linkedin.com/in/chioma-audrey-uche-nwosu-b8a246200
-- 👓 Medium: medium.com/itsjustchioma
+- 👓 Medium: https://medium.com/itsjustchioma
 
 <!---
 itsjustchioma/itsjustchioma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
