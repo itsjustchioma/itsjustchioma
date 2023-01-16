@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chioma.</h1>
-<h3 align="center">A passionate Frontend Developer & Technical Writer from Nigeria.</h3>
+<h3 align="center">A passionate Software Developer & Technical Writer from Nigeria.</h3>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="girl coding" width="1100" height="400"/>
 
