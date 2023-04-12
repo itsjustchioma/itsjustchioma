@@ -11,7 +11,7 @@
 
 - 🌍 I am based in Lagos, Nigeria 
 
-- I am currently an intern at [Faircado](https://faircado.com/)
+- 🍃 I am currently an intern at [Faircado](https://faircado.com/)
 
 - 🔧Check out my portfolio 
 
