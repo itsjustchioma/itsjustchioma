@@ -13,7 +13,7 @@
 
 - 🍃 I am currently an intern at [Faircado](https://faircado.com/)
 
-- 🔧Check out my portfolio 
+- 🔧 Check out my portfolio 
 
 - 📫 How to reach me **chiomacodes@gmail.com**
 
