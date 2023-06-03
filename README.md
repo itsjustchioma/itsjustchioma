@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chioma.</h1>
 <h3 align="center">A passionate Software Developer, Content Writer & Technical Writer.</h3>
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="girl coding" width="1100" height="400"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&color=0e75b6&style=flat" alt="itsjustchioma" /> </p>
-
-src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&color=0e75b6&style=flat" alt="itsjustchioma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustchioma" alt="itsjustchioma" /></a> </p>
 
@@ -33,10 +30,8 @@ src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&col
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itsjustchioma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsjustchioma" /></a></p><br><br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustchioma&show_icons=true&locale=en&layout=compact" alt="itsjustchioma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustchioma&show_icons=true&locale=en" alt="itsjustchioma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustchioma&" alt="itsjustchioma" /></p>
-
