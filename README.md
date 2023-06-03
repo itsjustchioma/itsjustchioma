@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently an intern at [Faircado](https://faircado.com/)
 
+- 🤝 Know about my experiences [on my portfolio](https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#)
+
 - 📝 I regularly write articles on [https://itsjustchioma.hashnode.dev/](https://itsjustchioma.hashnode.dev/)
 
 - 📫 How to reach me **chiomacodes@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#](https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
