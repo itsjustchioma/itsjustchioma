@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Chioma.</h1>
 <h3 align="center">A passionate Software Developer, Content Writer & Technical Writer.</h3>
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="girl coding" width="1100" height="400"/>
+<center><img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="girl coding"  width="1000" height="600"/></center>
 
-
-src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&color=0e75b6&style=flat" alt="itsjustchioma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustchioma" alt="itsjustchioma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsjustchioma" target="blank"><img src="https://img.shields.io/twitter/follow/itsjustchioma?logo=twitter&style=for-the-badge" alt="itsjustchioma" /></a> </p>
 
-- 🔭 I’m currently an intern at [Faircado](https://faircado.com/)
+- 🔭 I’m currently an intern at [Faircado](https://faircado.com/).
 
-- 📝 I regularly write articles on [https://itsjustchioma.hashnode.dev/](https://itsjustchioma.hashnode.dev/)
+- 📝 I regularly write articles on :
+  * [Hashnode](https://itsjustchioma.hashnode.dev/) 
+  * [Faircado Blog](https://faircado.com/author/chioma/)
+  * [Open Replay](https://blog.openreplay.com/authors/chioma-uche-nwosu/)
 
-- 📫 How to reach me **chiomacodes@gmail.com**
+- 📫 How to reach me **chiomacodes@gmail.com**.
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#](https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/14glYFxjcmmOm7v8TMgga-MKYnr-ou5eRtftqoC0N95k/edit#).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +34,9 @@ src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&col
 <p><a href="https://www.buymeacoffee.com/itsjustchioma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsjustchioma" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustchioma&show_icons=true&locale=en&layout=compact" alt="itsjustchioma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustchioma&show_icons=true&locale=en&layout=compact" alt="itsjustchioma" width="400" height="200"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustchioma&show_icons=true&locale=en" alt="itsjustchioma" /></p>
+<p>&nbsp;<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=itsjustchioma&show_icons=true&locale=en" alt="itsjustchioma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustchioma&" alt="itsjustchioma" /></p>
+<p><img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustchioma&" alt="itsjustchioma" /></p>
 
