@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chioma.</h1>
 <h3 align="center">A passionate Software Developer, Content Writer & Technical Writer.</h3>
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="girl coding" width="1100" height="400"/>
+<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjustchioma&label=Profile%20views&color=0e75b6&style=flat" alt="itsjustchioma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustchioma" alt="itsjustchioma" /></a> </p>
