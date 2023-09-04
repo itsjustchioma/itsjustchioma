@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/itsjustchioma" target="blank"><img src="https://img.shields.io/twitter/follow/itsjustchioma?logo=twitter&style=for-the-badge" alt="itsjustchioma" /></a> </p>
 
-- 🔭 I’m currently an intern at [Faircado](https://faircado.com/).
+- 🔭 I’m currently an intern at [Eat App](https://eatapp.co/).
 
 - 📝 I regularly write articles on :
   * [Hashnode](https://itsjustchioma.hashnode.dev/) 
-  * [Faircado Blog](https://faircado.com/author/chioma/)
   * [Open Replay](https://blog.openreplay.com/authors/chioma-uche-nwosu/)
 
 - 📫 How to reach me **chiomacodes@gmail.com**.
