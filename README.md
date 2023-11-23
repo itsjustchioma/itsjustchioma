@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Software Developer, Content Writer & Technical Writer.</h3>
 <center><img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="girl coding"  width="1000" height="400"/></center>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustchioma" alt="itsjustchioma" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/itsjustchioma" target="blank"><img src="https://img.shields.io/twitter/follow/itsjustchioma?logo=twitter&style=for-the-badge" alt="itsjustchioma" /></a> </p>
 
 - 🔭 I’m currently a Software Engineer at [Eat App](https://eatapp.co/).
@@ -31,11 +28,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itsjustchioma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsjustchioma" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustchioma&show_icons=true&locale=en&layout=compact" alt="itsjustchioma" width="400" height="200"/></p>
-
-<p>&nbsp;<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=itsjustchioma&show_icons=true&locale=en" alt="itsjustchioma" /></p>
-
-<p><img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustchioma&" alt="itsjustchioma" /></p>
 
