@@ -6,13 +6,7 @@
 
 - 🔭 I’m currently a Software Engineer at [Eat App](https://eatapp.co/).
 
-- 📝 I regularly write articles on :
-  * [Eat App Blog](https://restaurant.eatapp.co/blog/author/chioma)
-  * [Faircado Blog](https://faircado.com/author/chioma/) 
-  * [Hashnode Blog](https://itsjustchioma.hashnode.dev/) 
-  * [Open Replay HQ Blog](https://blog.openreplay.com/authors/chioma-uche-nwosu/)
-
-- 📫 How to reach me **chiomacodes@gmail.com**.
+- 📫 How to reach me: **chiomacodes@gmail.com**.
 
 - 📄 Know about my [experiences](https://plausible-key-3ea.notion.site/Chioma-Uche-Audrey-331e2643b3a04fa89d9b746f540aa86c).
 
