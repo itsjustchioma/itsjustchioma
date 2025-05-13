@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: **chiomacodes@gmail.com**.
 
-- 📄 Know about my [experiences](https://plausible-key-3ea.notion.site/Chioma-Uche-Audrey-331e2643b3a04fa89d9b746f540aa86c).
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsjustchioma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsjustchioma" height="30" width="40" /></a>
